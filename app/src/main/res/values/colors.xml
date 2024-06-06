@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="LUMBIABLUE">#CBDDE9</color>
+    <color name="SAGE">#C2CB96</color>
+    <color name="MELON">#F5BDA8</color>
+    <color name="PITCH">#D89486</color>
+    <color name="LAVENDER">#D59DAF</color>
+    <color name="BLOSSOM">#EF7E6D</color>
+    <color name="VELVETLEAF">#9AB096</color>
+    <color name="TANG">#EF7E69</color>
+    <color name="pink">#E91E63</color>
+    <color name="light_pink">#DF81A1</color>
+    <color name="dark_purple">#9C27B0</color>
+    <color name="light_purple">#E040FB</color>
+    <color name="deep_purple">#7C4DFF</color>
+    <color name="deep_cyan">#0097A7</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="blue">#C3DFE3</color>
+    <color name="LIGHTPITCH">#A5CFCD</color>
+    <color name="teal">#009688</color>
+    <color name="GOLDENROD">#E1AD01</color>
+    <color name="SAFFRON">#F0C42D</color>
+    <color name="dark_grey">#918F8F</color>
+    <color name="darkBlue">#7FBBB2</color>
+    <color name="lightGrey">#A4A4A4</color>
+    <color name="LizzaFizz">#CCA1C9</color>
+</resources>
