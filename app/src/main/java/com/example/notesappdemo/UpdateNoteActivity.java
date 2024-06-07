@@ -137,6 +137,7 @@ public class UpdateNoteActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     notesViewModel.VdeleteNote(upnote_id);
+                    Toast.makeText(UpdateNoteActivity.this, "Note Deleted Successfully", Toast.LENGTH_SHORT).show();
                     finish();
                 }
             });
